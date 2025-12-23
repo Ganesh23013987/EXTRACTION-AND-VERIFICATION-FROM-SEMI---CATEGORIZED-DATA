@@ -20,6 +20,7 @@ Many real-world datasets are semi-structured and contain incomplete or inconsist
 
 ---
 
+```
 Extraction-and-Verification-from-Semi-Categorized-Data/
 │
 ├── data/
@@ -37,7 +38,7 @@ Extraction-and-Verification-from-Semi-Categorized-Data/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
+```
 
 ## 🛠️ Technologies Used
 - Python
